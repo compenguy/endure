@@ -1,8 +1,11 @@
 [package]
 name = "endure"
+description = "Endure: To The End 2D space speedrunning game"
 version = "0.1.0"
 authors = ["Will Page <compenguy@gmail.com>"]
 edition = "2018"
+license = "Apache-2.0"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
