@@ -1,6 +1,6 @@
 [package]
 name = "endure"
-description = "Endure: To The End 2D space speedrunning game"
+description = "Endure: To The End is a 2d space-theme speedrun game"
 version = "0.1.0"
 authors = ["Will Page <compenguy@gmail.com>"]
 edition = "2018"
